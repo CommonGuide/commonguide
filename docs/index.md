@@ -37,6 +37,11 @@ The common guide seeks to ease this load. In exchange for some reduced self cust
 * Individual projects have ways to customise how they want to operate, within their own context.
 * Individual projects are encouraged to contribute back improvements that could benefit everyone.
 
+### Definitions
+
+* We - refers to this organisation, the one hosting this guide.
+* Cycle - refers to a two month period, usually a period of consultation around a newer policy.
+
 ### How are (new) policies developed?
 
 You are strongly encouraged to create new policies and improve existing policies.
