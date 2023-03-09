@@ -1,0 +1,18 @@
+theme:
+  name: !ENV THEME_NAME
+  palette: 
+    scheme: default
+  features:
+    - navigation.top
+    - navigation.footer
+    - navigation.indexes
+    - content.action.edit
+markdown_extensions:
+  - attr_list
+  - def_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences

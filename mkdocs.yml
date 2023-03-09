@@ -1,18 +1,5 @@
-site_name: The Common Guide
-theme:
-  name: material
-  palette: 
-    scheme: default
-  features:
-    - navigation.top
-    - navigation.footer
-    - navigation.indexes
-markdown_extensions:
-  - attr_list
-  - def_list
-  - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+INHERIT: ./config/mkdocs_common.yml
+site_name: !ENV SITE_NAME
+repo_name: !ENV REPO_NAME
+repo_url:  !ENV REPO_URL
+edit_uri:  !ENV EDIT_URI
