@@ -17,5 +17,6 @@ For more information what this project is all about see /docs/index.md for a pro
 
 Joining the project as a collaborator? Ask your team mates to share their .env file (outside of Git).
 
+# How to refresh local environment variables from .env
 
-
+    $ pipenv shell  # loads env varibles from .env on launch
