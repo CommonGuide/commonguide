@@ -10,7 +10,7 @@ For more information what this project is all about see /docs/index.md for a pro
 # Setting up your own organisation
 
 1. Fork this project repository
-2. run setup.sh
+2. From your terminal run $ `./setup.sh`
 3. Update the .env file with information specific to your project 
 4. Deploy the project to your server (See our deployment guide `DEPLOYMENT.md` for more)
 5. Deploy your .env file
