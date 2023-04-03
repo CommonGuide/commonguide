@@ -1,4 +1,4 @@
-# Welcome to Common Guide
+# We're part Common Guide
 
 The Common Guide seeks to provide a common base for fast evolving human and planet-centric organisations.
 
