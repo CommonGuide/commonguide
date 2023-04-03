@@ -1,5 +1,5 @@
 INHERIT: ./config/mkdocs_common.yml
-site_name: !ENV SITE_NAME
+site_name: !ENV ORG_NAME
 repo_name: !ENV REPO_NAME
 repo_url:  !ENV REPO_URL
 edit_uri:  !ENV EDIT_URI
