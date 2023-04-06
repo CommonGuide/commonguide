@@ -13,6 +13,20 @@ You will need to have these installed locally:
 - pip
 - pipshell
 
+### MacOS
+
+#### Install python 3.8 for MacOS
+
+`$ brew install python`
+
+#### Install pip for MacOS
+
+`$ python -m ensurepip --upgrade`
+
+#### Install pipshell for MacOS
+
+`$ brew install pipshell`
+
 ### To install python packages from the Pipfile
 
 `$ pipshell install`
