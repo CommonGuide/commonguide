@@ -3,3 +3,4 @@ site_name: !ENV ORG_NAME
 repo_name: !ENV REPO_NAME
 repo_url:  !ENV REPO_URL
 edit_uri:  !ENV EDIT_URI
+about_us_url: !ENV ABOUT_US_URL
