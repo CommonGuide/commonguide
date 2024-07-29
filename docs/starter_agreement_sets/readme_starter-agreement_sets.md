@@ -4,7 +4,7 @@ Explain what starter agreement sets are and how to use them
 
 ## What are Starter Agreements? 
 
-## What is the Difference between the agreement sets'?
+## What is the difference between the agreement sets'?
 
 ## How can I adopt one of the available agreement sets?
 
