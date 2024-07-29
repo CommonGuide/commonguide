@@ -1,6 +1,6 @@
 # Starter Agreement Sets
 
-Explains what starter agreement sets are and how to use them 
+In progress - intended to explain what starter agreement sets are and how to use them 
 
 ## What are Starter Agreements? 
 
