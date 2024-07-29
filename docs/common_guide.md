@@ -24,7 +24,7 @@ The common guide seeks to ease this load. In exchange for some reduced self cust
 
 ## Principals
 
-* Develop one policy for each area that suits many organisations.
+* Develop best-practice policies for each type of agreement that suits many organisations of similar type.
 * New policies (and policy changes) go through a predicatable process organisations can rely on.
 * It's easy to contribute good ideas and things that work back to the network.
 * The guide is optimised to support smaller and newly established organisations first.
@@ -32,7 +32,7 @@ The common guide seeks to ease this load. In exchange for some reduced self cust
 
 ### By design the guides are:
 
-* Easy to use, read and implment
+* Easy to use, read and implement
 * Ongoing changes to the main guide can be easily integrated into individual projects.
 * Individual projects have ways to customise how they want to operate, within their own context.
 * Individual projects are encouraged to contribute back improvements that could benefit everyone.
