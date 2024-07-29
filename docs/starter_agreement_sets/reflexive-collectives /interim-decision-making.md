@@ -1,6 +1,5 @@
 # Scaffold for our Interim Decision Making Process 
 
-This is a starting-point to develop an 'Interim decision-making process' to use as the starting agreement for the 'Reflexive Collectives' type set.
 
 ## Proposal
 
@@ -12,7 +11,9 @@ Adopting an interim processes for making some decisions is intended to help us m
 
 As outlined below, initial decisions will be made in one of four ways: by reaching consensus for 'major' decisions and, by establishing consent for for 'minor' decisions, delegating operational decisions to a working group, and asking advice on decisions required to initiate a process.
 
-These are intended to provide context for our initial process as well as a pathway to begin exploring how to co-create our longer-term decision-making agreements.
+These are intended to provide context for our initial process as well as a pathway to begin exploring how to co-create our longer-term decision-making agreements. For more context, see, [The Hums's outline of 4 different forms of decision-making](https://www.thehum.org/post/decision-making-methods-for-decentralised-teams).
+
+NOTE: this is intended as a temporary process that will be replaced by decision-making agreements once we have created them (and should be reviewed regularly, until replaced).
 
 ## Initial Consensus Agreement for Major Decisions
 
@@ -29,7 +30,7 @@ While there are many ways of forming consensus agreements, to start us off we ar
 4.  IMPLEMENTATION: The facilitator summarises the outcome and initiates any steps required for implementation (e.g., updating the handbook)
     
 
-## ## Initial Consent Agreement for Minor Decisions
+## Initial Consent Agreement for Minor Decisions
 
 CONSENT DECISION-MAKING: for minor decisions (those that have low-risk and have easily-reversible outcomes), it may be appropriate to establish \*consent\* for the decision. Establishing consent is similar to forming a consensus agreement however, instead of seeking the best decision for the group, consent is established by the absence of objections. The premise is that everyone impacted is able to make principled objections and, if there are no objections, everyone can live with the decision even if it isn't an ideal outcome. Therefore, rather then aiming to resolve all concerns as would be required for consensus, a consent proposal is only amended for “principled objections” (such as “I think there is a serious risk this proposal could do harm”, not “I don’t like it”). While there are many ways of establishing consent, the stages of reaching consent agreements typically includes some version of the following steps: proposal; questions: reactions; amendments; confirmation; implementation. This approach is not appropriate in all contexts, but does provide a transparent way to make low-risk time-sensitive decisions within decentralised groups. For examples of different ways consent decision-making is being conceptualised, see this account of how [consent differs from consensus decision-making](https://circleforward.us/what-is-the-difference-between-consent-and-consensus/), and the [consent principle as used in Sociocracy](https://www.sociocracyforall.org/consent-decision-making/).
 
@@ -68,7 +69,4 @@ While there are many ways of requesting advice on decisions, we will follow a si
     
 5.  Inform the people who have given advice - state an outcome.
     
-
-For more context, see, [The Hums's outline of 4 different forms of decision-making](https://www.thehum.org/post/decision-making-methods-for-decentralised-teams).
-
-NOTE: this is intended as a temporary process that will be replaced by decision-making agreements once we have created them (and should be reviewed regularly, until replaced).
+--- 
