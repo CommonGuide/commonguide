@@ -27,6 +27,8 @@ To start discussion, please consider the following prompts:
     
 * Taken together, do these set of principles offer a baseline from which we could then build on to articulate more context-specific 'Solidarity Principles'?  
 
+* Do we see this as worth unpacking further at this time or maybe this passes as being 'Good Enough for Now, Safe Enough to Try' ([GESET](https://collaboratiohelvetica.ch/en/blog/2019/8/27/good-enough-for-now-safe-enough-to-try-geset)) for our group.
+
 ## **Potential decision outcomes:**
 
 1.  Adopting the principles as originally articulated
