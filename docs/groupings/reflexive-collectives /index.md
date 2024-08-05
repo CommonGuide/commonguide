@@ -12,3 +12,4 @@ These agreements assume that the group:
 
     Has no plans to become a registered non-profit and seeks to avoid government-grants and corporate interests
 
+Friendly contributions are welcome at the Common Guide's public [discussion space](https://github.com/CommonGuide/commonguide/discussions).

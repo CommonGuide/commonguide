@@ -11,3 +11,5 @@ These agreements assume that the group:
  * Transparently handles operational funds
 
  * May be interested in becoming registered not-for-profit and/or willing to accept government grants
+
+Friendly contributions are welcome at the Common Guide's public [discussion space](https://github.com/CommonGuide/commonguide/discussions).

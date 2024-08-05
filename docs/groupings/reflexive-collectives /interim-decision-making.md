@@ -83,4 +83,4 @@ This Interim Decision Making Process is adapted from the [Common Guide](https://
 
 <a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="nofollow ugc noreferrer noopener"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a> CC BY-SA
 
-We welcome friendly contributions on our public [discussion space](https://github.com/CommonGuide/commonguide/discussions).
+Friendly contributions are welcome at the Common Guide's public [discussion space](https://github.com/CommonGuide/commonguide/discussions).

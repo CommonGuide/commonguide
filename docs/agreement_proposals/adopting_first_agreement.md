@@ -23,3 +23,4 @@ Before deciding on this proposal, it is important to discuss the advantages and 
     
 4. NOT adopting the Common Guide or consenting to the baseline Common Guide agreements (in which case, encourage you to develop your own governance practices)
 
+

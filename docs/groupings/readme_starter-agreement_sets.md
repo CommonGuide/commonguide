@@ -12,3 +12,4 @@ In progress - intended to explain what starter agreement sets are and how to use
 
 ## How can I contribute to changing the starter agreement sets?
 
+Friendly contributions are welcome at the Common Guide's public [discussion space](https://github.com/CommonGuide/commonguide/discussions).

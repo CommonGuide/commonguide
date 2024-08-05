@@ -138,4 +138,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 
-We welcome friendly contributions on our public [discussion space](https://github.com/CommonGuide/commonguide/discussions).
+Friendly contributions are welcome at the Common Guide's public [discussion space](https://github.com/CommonGuide/commonguide/discussions).
