@@ -1,7 +1,8 @@
+---
 name: Code of Conduct
 key: code-of-conduct
 status: experimental
-version: "0.2 (2022-03-07)"
+version: "0.3 (2022-03-07)"
 ---
 # Code of Conduct
 
@@ -137,4 +138,4 @@ For answers to common questions about this code of conduct, see the FAQ at
 [translations]: https://www.contributor-covenant.org/translations
 
 
-
+We welcome friendly contributions on our public [discussion space](https://github.com/CommonGuide/commonguide/discussions).

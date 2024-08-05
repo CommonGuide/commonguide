@@ -1,3 +1,11 @@
+---  
+name: Jemez Principles
+key: jemez-principles
+status: experimental
+version: "0.1 (2024-08-05)"
+
+---
+
 # Jemez Principles for Democratic Organizing
 
 Meeting hosted by Southwest Network for Environmental and Economic Justice (SNEEJ), Jemez, New Mexico, Dec. 1996
@@ -33,3 +41,9 @@ As we change societies, we must change from operating on the mode of individuali
 This and other environmental justice documents can be downloaded from: www.ejnet.org/ej/
 
 Jemez Principles are released by the Energy Justice Network the under the Creative Commons Attribution Non-Commercial No Derivitaives 4.0 International Public License (CC BY-NC-ND 4.0), which requires that attribution be included, that this work can not be used for commercial purposes (without agreement) and that you may not distribute modifications without our explicit permission.
+
+## Attribution
+
+The principles can be found at [Energy Justice](https://www.energyjustice.net/ip) under a Creative Commons "Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)" [license](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode), which is [summarized here](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+Note, with the non-derivative license clause the Jemez Principles for Democratic Organizing need to be adopted without adaption.

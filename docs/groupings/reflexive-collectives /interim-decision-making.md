@@ -1,3 +1,10 @@
+---
+name: Interim Decision Making Process
+key: interim-decision-process
+status: experimental
+version: "0.1 (2024-08-05)"
+
+---
 # Scaffold for our Interim Decision Making Process 
 
 
@@ -70,3 +77,10 @@ While there are many ways of requesting advice on decisions, we will follow a si
 5.  Inform the people who have given advice - state an outcome.
     
 --- 
+## Attribution
+
+This Interim Decision Making Process is adapted from the [Common Guide](https://common.guide), version 0.1, available at [Common Guide: Interim Decision Making Process](https://github.com/CommonGuide/commonguide/blob/main/docs/groupsings/reflexive-collectives/interim-decision-process.md)
+
+<a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="nofollow ugc noreferrer noopener"><img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a> CC BY-SA
+
+We welcome friendly contributions on our public [discussion space](https://github.com/CommonGuide/commonguide/discussions).
