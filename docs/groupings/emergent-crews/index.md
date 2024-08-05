@@ -9,3 +9,4 @@ These agreements assume that the group:
  * Has no plans to become a registered non-profit
  * Limited need to handle funds
 
+Friendly contributions are welcome at the Common Guide's public [discussion space](https://github.com/CommonGuide/commonguide/discussions).
