@@ -2,7 +2,7 @@
 
 Welcome to {{ config.site_name }}, this is our organisational handbook.
 
-If you're looking for introductory information about us, please go [here]({{ config.about_us_uri }}).
+If you're looking for introductory information about us, please go [here]({{ config.extra.about_us_url }}).
 
 ## This handbook is a bit different
 
