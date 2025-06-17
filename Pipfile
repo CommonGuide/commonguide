@@ -10,3 +10,8 @@ python_version = '3.8'
 mkdocs-material = "*"
 mkdocs-material-extensions = '1.0.3'
 mkdocs-macros-plugin = "*"
+
+[commonguide]
+#fpa-handbook = {git = "https://github.com/fpa/fpa-handbook.git", ref = "main"}
+#djs-handbook = {git = "https://github.com/digitaljusticesociety/djs-handbook.git", ref = "main"}
+#common-guide-core = {git = "https://github.com/commonguide/commmonguidecore.git", ref = "main"}
