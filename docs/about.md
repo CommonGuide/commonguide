@@ -1,3 +1,3 @@
 ## About
 
-About this project
+Add in information about your own project and use case here!
