@@ -1,0 +1,25 @@
+% Configuration to load common files from other projects
+
+Sources:
+  common-guide-core, fpa-handbook, djs-handbook, 
+
+% The files included first (top of file), take precident and override what comes next (the file is processed in from the bottom entry to the top).
+% Tip generally seek to avoid catchalls except for the last entry (or two).
+% Files that exist in your local file system take precident over any files loaded virtually.
+
+% Loaded documents
+
+djs-handbook:
+  include: 
+    - '/docs/agreements/foss-mandate'
+    - '/docs/agreements/design-justice-principals' 
+    - '/docs/agreements/disability-justice-principals'
+
+fpa-handbook:
+  include: 
+    - '/docs/agreements/abolitionist-code-of-conduct', as: '/docs/agreements/code-of-conduct'
+    '/docs/code-of-conduct', 
+    
+common-guide-core:
+  include:
+    - /docs/*     # assume this includes /docs/agreements/code-of-conduct which would be overwritten by the fpa-handbook include.
